@@ -1,0 +1,33 @@
+﻿@model Library.ViewModel.ShelfVm
+@{
+    ViewData["Title"] = "Edit Shelf";
+    var libraryId = ViewBag.LibraryId;
+}
+
+<h1>Edit Shelf</h1>
+
+<form asp-action="EditShelf">
+    <div class="form-group">
+        <label asp-for="Height" class="control-label"></label>
+        <input asp-for="Height" class="form-control" />
+        <span asp-validation-for="Height" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Width" class="control-label"></label>
+        <input asp-for="Width" class="form-control" />
+        <span asp-validation-for="Width" class="text-danger"></span>
+    </div>
+    <input type="hidden" asp-for="LibraryId" value="@libraryId" />
+    <input type="hidden" asp-for="Id" />
+    <div class="form-group">
+        <input type="submit" value="Save" class="btn btn-primary" />
+    </div>
+</form>
+
+<div>
+    <a asp-action="Index" asp-route-libraryId="@libraryId">Back to List</a>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

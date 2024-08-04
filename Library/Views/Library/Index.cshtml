@@ -1,0 +1,30 @@
+﻿@model IEnumerable<Library.Models.LibraryModel>
+@{
+    ViewData["Title"] = "Libraries";
+}
+
+<h1>Libraries</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Ganre</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var library in Model)
+        {
+            <tr>
+                <td>@library.Genre</td>
+                <td>
+                    @Html.ActionLink("Edit", "EditLibrary", new { id = library.Id }) |
+                    @Html.ActionLink("Delete", "DeleteLibrary", new { id = library.Id }) |
+                    @Html.ActionLink("View Shelves", "Index", "Shelf", new { libraryId = library.Id })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="AddLibrary" class="btn btn-primary">Add New Library</a>

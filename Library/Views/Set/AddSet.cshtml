@@ -1,0 +1,27 @@
+﻿@model Library.ViewModel.SetVm
+@{
+    ViewData["Title"] = "Add Set";
+    var shelfId = ViewBag.ShelfId;
+}
+
+<h1>Add Set</h1>
+
+<form asp-action="AddSet">
+    <div class="form-group">
+        <label asp-for="SetName" class="control-label"></label>
+        <input asp-for="SetName" class="form-control" />
+        <span asp-validation-for="SetName" class="text-danger"></span>
+    </div>
+    <input type="hidden" asp-for="ShelfId" value="@shelfId" />
+    <div class="form-group">
+        <input type="submit" value="Add" class="btn btn-primary" />
+    </div>
+</form>
+
+<div>
+    <a asp-action="Index" asp-route-shelfId="@shelfId">Back to List</a>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

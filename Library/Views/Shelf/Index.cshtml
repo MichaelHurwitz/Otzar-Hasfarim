@@ -1,0 +1,33 @@
+﻿@model IEnumerable<Library.Models.ShelfModel>
+@{
+    ViewData["Title"] = "Shelves";
+    var libraryId = ViewBag.LibraryId;
+}
+
+<h1>Shelves</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Hight</th>
+            <th>Width</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var shelf in Model)
+        {
+            <tr>
+                <td>@shelf.Height</td>
+                <td>@shelf.Width</td>
+                <td>
+                    @Html.ActionLink("Edit", "EditShelf", new { id = shelf.Id }) |
+                    @Html.ActionLink("Delete", "DeleteShelf", new { id = shelf.Id }) |
+                    @Html.ActionLink("View Sets", "Index", "Set", new { shelfId = shelf.Id })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="AddShelf" asp-route-libraryId="@libraryId" class="btn btn-primary">Add New Shelf</a>
