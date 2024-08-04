@@ -15,19 +15,17 @@ namespace Library.Service
             _context = context;
         }
 
-        public async Task<IEnumerable<LibraryModel>> GetAllLibraries()
-        {
-            return await _context.Library
-                .Include(l => l.Shelves)
-                .ToListAsync();
-        }
+        public async Task<IEnumerable<LibraryModel>> GetAllLibraries() =>
+        await _context.Library
+            .Include(l => l.Shelves)
+            .ToListAsync();
+        
 
-        public async Task<LibraryModel?> GetLibraryById(long id)
-        {
-            return await _context.Library
-                .Include(l => l.Shelves)
-                .FirstOrDefaultAsync(l => l.Id == id);
-        }
+        public async Task<LibraryModel?> GetLibraryById(long id) =>
+        await _context.Library
+            .Include(l => l.Shelves)
+            .FirstOrDefaultAsync(l => l.Id == id);
+        
 
         public async Task AddLibrary(LibraryModel library)
         {

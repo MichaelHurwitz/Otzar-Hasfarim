@@ -25,24 +25,21 @@ namespace Library.Service
             _libraryService = libraryService;
         }
 
-        public async Task<IEnumerable<BookModel>> GetAllBooks()
-        {
-            return await _context.Books
+        public async Task<IEnumerable<BookModel>> GetAllBooks() =>
+        await _context.Books
                 .ToListAsync();
-        }
+        
 
-        public async Task<BookModel?> GetBookById(long id)
-        {
-            return await _context.Books
+        public async Task<BookModel?> GetBookById(long id) =>
+        await _context.Books
                 .FindAsync(id);
-        }
+        
 
-        public async Task<IEnumerable<BookModel>> GetBooksBySetId(long setId)
-        {
-            return await _context.Books
-                .Where(b => b.SetId == setId)
-                .ToListAsync();
-        }
+        public async Task<IEnumerable<BookModel>> GetBooksBySetId(long setId) =>
+        await _context.Books
+            .Where(b => b.SetId == setId)
+            .ToListAsync();
+       
 
         public async Task AddBook(BookModel book)
         {
@@ -86,7 +83,7 @@ namespace Library.Service
             }
         }
 
-        private async Task<string> ValidateBook(BookModel book)
+        private async Task<string?> ValidateBook(BookModel book)
         {
             var set = await _setService
                 .GetSetById(book.SetId);

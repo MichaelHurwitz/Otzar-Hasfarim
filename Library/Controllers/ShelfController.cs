@@ -25,7 +25,8 @@ namespace Library.Controllers
             try
             {
                 var shelves = await _shelfService.GetAllShelves();
-                var filteredShelves = shelves.Where(s => s.LibraryId == libraryId).ToList();
+                var filteredShelves = shelves
+                    .Where(s => s.LibraryId == libraryId).ToList();
                 ViewBag.LibraryId = libraryId;
                 return View(filteredShelves);
             }
@@ -37,7 +38,8 @@ namespace Library.Controllers
 
         public async Task<IActionResult> DetailsShelf(long id)
         {
-            var shelf = await _shelfService.GetShelfById(id);
+            var shelf = await _shelfService
+                .GetShelfById(id);
             if (shelf == null)
             {
                 return NotFound();
@@ -69,7 +71,8 @@ namespace Library.Controllers
                     Width = model.Width,
                     LibraryId = model.LibraryId
                 };
-                await _shelfService.AddShelf(shelf);
+                await _shelfService
+                    .AddShelf(shelf);
                 return RedirectToAction(nameof(Index), new { libraryId = model.LibraryId });
             }
             catch (Exception ex)
@@ -82,7 +85,8 @@ namespace Library.Controllers
         {
             try
             {
-                var shelf = await _shelfService.GetShelfById(id);
+                var shelf = await _shelfService
+                    .GetShelfById(id);
                 if (shelf == null)
                 {
                     return NotFound();
@@ -123,7 +127,8 @@ namespace Library.Controllers
                     Width = model.Width,
                     LibraryId = model.LibraryId
                 };
-                await _shelfService.UpdateShelf(shelf);
+                await _shelfService
+                    .UpdateShelf(shelf);
                 return RedirectToAction(nameof(Index), new { libraryId = model.LibraryId });
             }
             catch (Exception ex)
@@ -136,7 +141,8 @@ namespace Library.Controllers
         {
             try
             {
-                var shelf = await _shelfService.GetShelfById(id);
+                var shelf = await _shelfService
+                    .GetShelfById(id);
                 if (shelf == null)
                 {
                     return NotFound();
@@ -156,7 +162,8 @@ namespace Library.Controllers
         {
             try
             {
-                var shelf = await _shelfService.GetShelfById(id);
+                var shelf = await _shelfService
+                    .GetShelfById(id);
                 if (shelf == null)
                 {
                     return NotFound();

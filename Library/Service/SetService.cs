@@ -15,19 +15,16 @@ namespace Library.Service
             _context = context;
         }
 
-        public async Task<IEnumerable<SetModel>> GetAllSets()
-        {
-            return await _context.Sets
-                .Include(s => s.Shelf)
-                .ToListAsync();
-        }
+        public async Task<IEnumerable<SetModel>> GetAllSets() =>
+        await _context.Sets
+            .Include(s => s.Shelf)
+            .ToListAsync();
+        
 
-        public async Task<SetModel?> GetSetById(long id)
-        {
-            return await _context.Sets
-                .Include(s => s.Shelf)
-                .FirstOrDefaultAsync(s => s.Id == id);
-        }
+        public async Task<SetModel?> GetSetById(long id) =>
+        await _context.Sets
+            .Include(s => s.Shelf)
+            .FirstOrDefaultAsync(s => s.Id == id);
 
         public async Task AddSet(SetModel set)
         {

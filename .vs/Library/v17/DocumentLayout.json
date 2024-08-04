@@ -3,12 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{182E9852-3EA6-4EF4-A221-DA6A051CB731}|Library\\Library.csproj|c:\\users\\user\\onedrive\\desktop\\full stack dev cores\\c#\\library\\library\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{182E9852-3EA6-4EF4-A221-DA6A051CB731}|Library\\Library.csproj|solutionrelative:library\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{182E9852-3EA6-4EF4-A221-DA6A051CB731}|Library\\Library.csproj|c:\\users\\user\\onedrive\\desktop\\full stack dev cores\\c#\\library\\library\\service\\shelfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182E9852-3EA6-4EF4-A221-DA6A051CB731}|Library\\Library.csproj|solutionrelative:library\\service\\shelfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182E9852-3EA6-4EF4-A221-DA6A051CB731}|Library\\Library.csproj|c:\\users\\user\\onedrive\\desktop\\full stack dev cores\\c#\\library\\library\\service\\setservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182E9852-3EA6-4EF4-A221-DA6A051CB731}|Library\\Library.csproj|solutionrelative:library\\service\\setservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182E9852-3EA6-4EF4-A221-DA6A051CB731}|Library\\Library.csproj|c:\\users\\user\\onedrive\\desktop\\full stack dev cores\\c#\\library\\library\\service\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182E9852-3EA6-4EF4-A221-DA6A051CB731}|Library\\Library.csproj|solutionrelative:library\\service\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182E9852-3EA6-4EF4-A221-DA6A051CB731}|Library\\Library.csproj|c:\\users\\user\\onedrive\\desktop\\full stack dev cores\\c#\\library\\library\\service\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182E9852-3EA6-4EF4-A221-DA6A051CB731}|Library\\Library.csproj|solutionrelative:library\\service\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{182E9852-3EA6-4EF4-A221-DA6A051CB731}|Library\\Library.csproj|c:\\users\\user\\onedrive\\desktop\\full stack dev cores\\c#\\library\\library\\service\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{182E9852-3EA6-4EF4-A221-DA6A051CB731}|Library\\Library.csproj|solutionrelative:library\\service\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182E9852-3EA6-4EF4-A221-DA6A051CB731}|Library\\Library.csproj|c:\\users\\user\\onedrive\\desktop\\full stack dev cores\\c#\\library\\library\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182E9852-3EA6-4EF4-A221-DA6A051CB731}|Library\\Library.csproj|solutionrelative:library\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182E9852-3EA6-4EF4-A221-DA6A051CB731}|Library\\Library.csproj|c:\\users\\user\\onedrive\\desktop\\full stack dev cores\\c#\\library\\library\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182E9852-3EA6-4EF4-A221-DA6A051CB731}|Library\\Library.csproj|solutionrelative:library\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182E9852-3EA6-4EF4-A221-DA6A051CB731}|Library\\Library.csproj|c:\\users\\user\\onedrive\\desktop\\full stack dev cores\\c#\\library\\library\\controllers\\shelfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182E9852-3EA6-4EF4-A221-DA6A051CB731}|Library\\Library.csproj|solutionrelative:library\\controllers\\shelfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182E9852-3EA6-4EF4-A221-DA6A051CB731}|Library\\Library.csproj|c:\\users\\user\\onedrive\\desktop\\full stack dev cores\\c#\\library\\library\\controllers\\setcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182E9852-3EA6-4EF4-A221-DA6A051CB731}|Library\\Library.csproj|solutionrelative:library\\controllers\\setcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182E9852-3EA6-4EF4-A221-DA6A051CB731}|Library\\Library.csproj|c:\\users\\user\\onedrive\\desktop\\full stack dev cores\\c#\\library\\library\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182E9852-3EA6-4EF4-A221-DA6A051CB731}|Library\\Library.csproj|solutionrelative:library\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182E9852-3EA6-4EF4-A221-DA6A051CB731}|Library\\Library.csproj|c:\\users\\user\\onedrive\\desktop\\full stack dev cores\\c#\\library\\library\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182E9852-3EA6-4EF4-A221-DA6A051CB731}|Library\\Library.csproj|solutionrelative:library\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182E9852-3EA6-4EF4-A221-DA6A051CB731}|Library\\Library.csproj|c:\\users\\user\\onedrive\\desktop\\full stack dev cores\\c#\\library\\library\\service\\ilibraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182E9852-3EA6-4EF4-A221-DA6A051CB731}|Library\\Library.csproj|solutionrelative:library\\service\\ilibraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{182E9852-3EA6-4EF4-A221-DA6A051CB731}|Library\\Library.csproj|c:\\users\\user\\onedrive\\desktop\\full stack dev cores\\c#\\library\\library\\views\\book\\editbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -21,14 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{182E9852-3EA6-4EF4-A221-DA6A051CB731}|Library\\Library.csproj|c:\\users\\user\\onedrive\\desktop\\full stack dev cores\\c#\\library\\library\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{182E9852-3EA6-4EF4-A221-DA6A051CB731}|Library\\Library.csproj|solutionrelative:library\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{182E9852-3EA6-4EF4-A221-DA6A051CB731}|Library\\Library.csproj|c:\\users\\user\\onedrive\\desktop\\full stack dev cores\\c#\\library\\library\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{182E9852-3EA6-4EF4-A221-DA6A051CB731}|Library\\Library.csproj|solutionrelative:library\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{182E9852-3EA6-4EF4-A221-DA6A051CB731}|Library\\Library.csproj|c:\\users\\user\\onedrive\\desktop\\full stack dev cores\\c#\\library\\library\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{182E9852-3EA6-4EF4-A221-DA6A051CB731}|Library\\Library.csproj|solutionrelative:library\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{182E9852-3EA6-4EF4-A221-DA6A051CB731}|Library\\Library.csproj|c:\\users\\user\\onedrive\\desktop\\full stack dev cores\\c#\\library\\library\\views\\shelf\\deleteshelf.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -45,14 +77,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{182E9852-3EA6-4EF4-A221-DA6A051CB731}|Library\\Library.csproj|c:\\users\\user\\onedrive\\desktop\\full stack dev cores\\c#\\library\\library\\views\\book\\deletebook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{182E9852-3EA6-4EF4-A221-DA6A051CB731}|Library\\Library.csproj|solutionrelative:library\\views\\book\\deletebook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{182E9852-3EA6-4EF4-A221-DA6A051CB731}|Library\\Library.csproj|c:\\users\\user\\onedrive\\desktop\\full stack dev cores\\c#\\library\\library\\controllers\\shelfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{182E9852-3EA6-4EF4-A221-DA6A051CB731}|Library\\Library.csproj|solutionrelative:library\\controllers\\shelfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{182E9852-3EA6-4EF4-A221-DA6A051CB731}|Library\\Library.csproj|c:\\users\\user\\onedrive\\desktop\\full stack dev cores\\c#\\library\\library\\controllers\\setcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{182E9852-3EA6-4EF4-A221-DA6A051CB731}|Library\\Library.csproj|solutionrelative:library\\controllers\\setcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{182E9852-3EA6-4EF4-A221-DA6A051CB731}|Library\\Library.csproj|c:\\users\\user\\onedrive\\desktop\\full stack dev cores\\c#\\library\\library\\views\\set\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -91,22 +115,6 @@
       "RelativeMoniker": "D:0:0:{182E9852-3EA6-4EF4-A221-DA6A051CB731}|Library\\Library.csproj|solutionrelative:library\\views\\set\\addset.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{182E9852-3EA6-4EF4-A221-DA6A051CB731}|Library\\Library.csproj|c:\\users\\user\\onedrive\\desktop\\full stack dev cores\\c#\\library\\library\\service\\setservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{182E9852-3EA6-4EF4-A221-DA6A051CB731}|Library\\Library.csproj|solutionrelative:library\\service\\setservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{182E9852-3EA6-4EF4-A221-DA6A051CB731}|Library\\Library.csproj|c:\\users\\user\\onedrive\\desktop\\full stack dev cores\\c#\\library\\library\\service\\shelfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{182E9852-3EA6-4EF4-A221-DA6A051CB731}|Library\\Library.csproj|solutionrelative:library\\service\\shelfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{182E9852-3EA6-4EF4-A221-DA6A051CB731}|Library\\Library.csproj|c:\\users\\user\\onedrive\\desktop\\full stack dev cores\\c#\\library\\library\\service\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{182E9852-3EA6-4EF4-A221-DA6A051CB731}|Library\\Library.csproj|solutionrelative:library\\service\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{182E9852-3EA6-4EF4-A221-DA6A051CB731}|Library\\Library.csproj|c:\\users\\user\\onedrive\\desktop\\full stack dev cores\\c#\\library\\library\\service\\ilibraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{182E9852-3EA6-4EF4-A221-DA6A051CB731}|Library\\Library.csproj|solutionrelative:library\\service\\ilibraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{182E9852-3EA6-4EF4-A221-DA6A051CB731}|Library\\Library.csproj|c:\\users\\user\\onedrive\\desktop\\full stack dev cores\\c#\\library\\library\\viewmodel\\libraryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{182E9852-3EA6-4EF4-A221-DA6A051CB731}|Library\\Library.csproj|solutionrelative:library\\viewmodel\\libraryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -117,10 +125,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{182E9852-3EA6-4EF4-A221-DA6A051CB731}|Library\\Library.csproj|c:\\users\\user\\onedrive\\desktop\\full stack dev cores\\c#\\library\\library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{182E9852-3EA6-4EF4-A221-DA6A051CB731}|Library\\Library.csproj|solutionrelative:library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{182E9852-3EA6-4EF4-A221-DA6A051CB731}|Library\\Library.csproj|c:\\users\\user\\onedrive\\desktop\\full stack dev cores\\c#\\library\\library\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{182E9852-3EA6-4EF4-A221-DA6A051CB731}|Library\\Library.csproj|solutionrelative:library\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{182E9852-3EA6-4EF4-A221-DA6A051CB731}|Library\\Library.csproj|c:\\users\\user\\onedrive\\desktop\\full stack dev cores\\c#\\library\\library\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -155,10 +159,6 @@
       "RelativeMoniker": "D:0:0:{182E9852-3EA6-4EF4-A221-DA6A051CB731}|Library\\Library.csproj|solutionrelative:library\\service\\ishelfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{182E9852-3EA6-4EF4-A221-DA6A051CB731}|Library\\Library.csproj|c:\\users\\user\\onedrive\\desktop\\full stack dev cores\\c#\\library\\library\\service\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{182E9852-3EA6-4EF4-A221-DA6A051CB731}|Library\\Library.csproj|solutionrelative:library\\service\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{182E9852-3EA6-4EF4-A221-DA6A051CB731}|Library\\Library.csproj|c:\\users\\user\\onedrive\\desktop\\full stack dev cores\\c#\\library\\library\\migrations\\20240803210252_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{182E9852-3EA6-4EF4-A221-DA6A051CB731}|Library\\Library.csproj|solutionrelative:library\\migrations\\20240803210252_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -170,83 +170,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BookController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Controllers\\BookController.cs",
-              "RelativeDocumentMoniker": "Library\\Controllers\\BookController.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Controllers\\BookController.cs",
-              "RelativeToolTip": "Library\\Controllers\\BookController.cs",
-              "ViewState": "AQIAAMQAAAAAAAAAAADwv8EAAAAUAAAA",
+              "DocumentIndex": 5,
+              "Title": "BookModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Models\\BookModel.cs",
+              "RelativeDocumentMoniker": "Library\\Models\\BookModel.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Models\\BookModel.cs",
+              "RelativeToolTip": "Library\\Models\\BookModel.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAsAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T11:00:28.87Z",
+              "WhenOpened": "2024-08-01T11:10:44.629Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Views\\Book\\Index.cshtml",
-              "RelativeDocumentMoniker": "Library\\Views\\Book\\Index.cshtml",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Views\\Book\\Index.cshtml",
-              "RelativeToolTip": "Library\\Views\\Book\\Index.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-01T12:31:01.671Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LibraryController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Controllers\\LibraryController.cs",
-              "RelativeDocumentMoniker": "Library\\Controllers\\LibraryController.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Controllers\\LibraryController.cs",
-              "RelativeToolTip": "Library\\Controllers\\LibraryController.cs",
-              "ViewState": "AQIAAHcAAAAAAAAAAAAiwIAAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T11:08:21.644Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AddBook.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Views\\Book\\AddBook.cshtml",
-              "RelativeDocumentMoniker": "Library\\Views\\Book\\AddBook.cshtml",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Views\\Book\\AddBook.cshtml",
-              "RelativeToolTip": "Library\\Views\\Book\\AddBook.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAwwCgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-01T12:31:26.761Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "BookService.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Service\\BookService.cs",
               "RelativeDocumentMoniker": "Library\\Service\\BookService.cs",
               "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Service\\BookService.cs",
               "RelativeToolTip": "Library\\Service\\BookService.cs",
-              "ViewState": "AQIAAHsAAAAAAAAAAAAowHMAAAAQAAAA",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAIwFUAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-01T11:12:29.228Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Service\\IBookService.cs",
+              "RelativeDocumentMoniker": "Library\\Service\\IBookService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Service\\IBookService.cs",
+              "RelativeToolTip": "Library\\Service\\IBookService.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAUwAkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T11:19:13.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "EditBook.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Views\\Book\\EditBook.cshtml",
-              "RelativeDocumentMoniker": "Library\\Views\\Book\\EditBook.cshtml",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Views\\Book\\EditBook.cshtml",
-              "RelativeToolTip": "Library\\Views\\Book\\EditBook.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-01T12:31:47.082Z",
+              "Title": "LibraryService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Service\\LibraryService.cs",
+              "RelativeDocumentMoniker": "Library\\Service\\LibraryService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Service\\LibraryService.cs",
+              "RelativeToolTip": "Library\\Service\\LibraryService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T11:18:37.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SetService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Service\\SetService.cs",
+              "RelativeDocumentMoniker": "Library\\Service\\SetService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Service\\SetService.cs",
+              "RelativeToolTip": "Library\\Service\\SetService.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAABoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T11:18:49.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShelfService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Service\\ShelfService.cs",
+              "RelativeDocumentMoniker": "Library\\Service\\ShelfService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Service\\ShelfService.cs",
+              "RelativeToolTip": "Library\\Service\\ShelfService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T11:19:02.332Z",
               "EditorCaption": ""
             },
             {
@@ -257,25 +258,115 @@
               "RelativeDocumentMoniker": "Library\\Data\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "Library\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAFkAAAAAAAAAAAAswFwAAAAvAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAywFwAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T19:45:13.789Z"
+              "WhenOpened": "2024-08-03T19:45:13.789Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 7,
               "Title": "ShelfController.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Controllers\\ShelfController.cs",
               "RelativeDocumentMoniker": "Library\\Controllers\\ShelfController.cs",
               "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Controllers\\ShelfController.cs",
               "RelativeToolTip": "Library\\Controllers\\ShelfController.cs",
-              "ViewState": "AQIAAJcAAAAAAAAAAAAiwLAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKUAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T11:09:13.663Z"
+              "WhenOpened": "2024-08-01T11:09:13.663Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "SetController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Controllers\\SetController.cs",
+              "RelativeDocumentMoniker": "Library\\Controllers\\SetController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Controllers\\SetController.cs",
+              "RelativeToolTip": "Library\\Controllers\\SetController.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAuwCoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T10:19:24.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LibraryController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Controllers\\LibraryController.cs",
+              "RelativeDocumentMoniker": "Library\\Controllers\\LibraryController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Controllers\\LibraryController.cs",
+              "RelativeToolTip": "Library\\Controllers\\LibraryController.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAADwvyEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T11:08:21.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Library\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Library\\Controllers\\BookController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwMEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T11:00:28.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ILibraryService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Service\\ILibraryService.cs",
+              "RelativeDocumentMoniker": "Library\\Service\\ILibraryService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Service\\ILibraryService.cs",
+              "RelativeToolTip": "Library\\Service\\ILibraryService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T11:19:59.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EditBook.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Views\\Book\\EditBook.cshtml",
+              "RelativeDocumentMoniker": "Library\\Views\\Book\\EditBook.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Views\\Book\\EditBook.cshtml",
+              "RelativeToolTip": "Library\\Views\\Book\\EditBook.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T12:31:47.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddBook.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Views\\Book\\AddBook.cshtml",
+              "RelativeDocumentMoniker": "Library\\Views\\Book\\AddBook.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Views\\Book\\AddBook.cshtml",
+              "RelativeToolTip": "Library\\Views\\Book\\AddBook.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAwwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T12:31:26.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "Library\\Views\\Book\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "Library\\Views\\Book\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T12:31:01.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "DeleteSet.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Views\\Set\\DeleteSet.cshtml",
               "RelativeDocumentMoniker": "Library\\Views\\Set\\DeleteSet.cshtml",
@@ -287,7 +378,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "DeleteBook.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Views\\Book\\DeleteBook.cshtml",
               "RelativeDocumentMoniker": "Library\\Views\\Book\\DeleteBook.cshtml",
@@ -299,7 +390,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "DeleteShelf.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Views\\Shelf\\DeleteShelf.cshtml",
               "RelativeDocumentMoniker": "Library\\Views\\Shelf\\DeleteShelf.cshtml",
@@ -311,7 +402,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "DeleteLibrary.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Views\\Library\\DeleteLibrary.cshtml",
               "RelativeDocumentMoniker": "Library\\Views\\Library\\DeleteLibrary.cshtml",
@@ -323,19 +414,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "SetController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Controllers\\SetController.cs",
-              "RelativeDocumentMoniker": "Library\\Controllers\\SetController.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Controllers\\SetController.cs",
-              "RelativeToolTip": "Library\\Controllers\\SetController.cs",
-              "ViewState": "AQIAAKYAAAAAAAAAAAAiwJ0AAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T10:19:24.812Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Views\\Set\\Index.cshtml",
               "RelativeDocumentMoniker": "Library\\Views\\Set\\Index.cshtml",
@@ -347,7 +426,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "EditLibrary.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Views\\Library\\EditLibrary.cshtml",
               "RelativeDocumentMoniker": "Library\\Views\\Library\\EditLibrary.cshtml",
@@ -359,7 +438,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
               "Title": "AddLibrary.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Views\\Library\\AddLibrary.cshtml",
               "RelativeDocumentMoniker": "Library\\Views\\Library\\AddLibrary.cshtml",
@@ -371,7 +450,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 22,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Views\\Shelf\\Index.cshtml",
               "RelativeDocumentMoniker": "Library\\Views\\Shelf\\Index.cshtml",
@@ -383,7 +462,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 23,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Views\\Library\\Index.cshtml",
               "RelativeDocumentMoniker": "Library\\Views\\Library\\Index.cshtml",
@@ -395,7 +474,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 24,
               "Title": "EditShelf.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Views\\Shelf\\EditShelf.cshtml",
               "RelativeDocumentMoniker": "Library\\Views\\Shelf\\EditShelf.cshtml",
@@ -407,7 +486,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 25,
               "Title": "AddShelf.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Views\\Shelf\\AddShelf.cshtml",
               "RelativeDocumentMoniker": "Library\\Views\\Shelf\\AddShelf.cshtml",
@@ -419,7 +498,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 26,
               "Title": "EditSet.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Views\\Set\\EditSet.cshtml",
               "RelativeDocumentMoniker": "Library\\Views\\Set\\EditSet.cshtml",
@@ -431,7 +510,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 27,
               "Title": "AddSet.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Views\\Set\\AddSet.cshtml",
               "RelativeDocumentMoniker": "Library\\Views\\Set\\AddSet.cshtml",
@@ -443,55 +522,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "ShelfService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Service\\ShelfService.cs",
-              "RelativeDocumentMoniker": "Library\\Service\\ShelfService.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Service\\ShelfService.cs",
-              "RelativeToolTip": "Library\\Service\\ShelfService.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAYwCcAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T11:19:02.332Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "LibraryService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Service\\LibraryService.cs",
-              "RelativeDocumentMoniker": "Library\\Service\\LibraryService.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Service\\LibraryService.cs",
-              "RelativeToolTip": "Library\\Service\\LibraryService.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAA9wCoAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T11:18:37.02Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "SetService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Service\\SetService.cs",
-              "RelativeDocumentMoniker": "Library\\Service\\SetService.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Service\\SetService.cs",
-              "RelativeToolTip": "Library\\Service\\SetService.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAiwCkAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T11:18:49.707Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "ILibraryService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Service\\ILibraryService.cs",
-              "RelativeDocumentMoniker": "Library\\Service\\ILibraryService.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Service\\ILibraryService.cs",
-              "RelativeToolTip": "Library\\Service\\ILibraryService.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T11:19:59.065Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "LibraryVm.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\ViewModel\\LibraryVm.cs",
               "RelativeDocumentMoniker": "Library\\ViewModel\\LibraryVm.cs",
@@ -503,7 +534,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "LibraryModel.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Models\\LibraryModel.cs",
               "RelativeDocumentMoniker": "Library\\Models\\LibraryModel.cs",
@@ -515,7 +546,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Program.cs",
               "RelativeDocumentMoniker": "Library\\Program.cs",
@@ -539,19 +570,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "BookModel.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Models\\BookModel.cs",
-              "RelativeDocumentMoniker": "Library\\Models\\BookModel.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Models\\BookModel.cs",
-              "RelativeToolTip": "Library\\Models\\BookModel.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAsAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T11:10:44.629Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\appsettings.json",
               "RelativeDocumentMoniker": "Library\\appsettings.json",
@@ -563,7 +582,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "Library",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Library.csproj",
               "RelativeDocumentMoniker": "Library\\Library.csproj",
@@ -574,7 +593,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "ShelfVm.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\ViewModel\\ShelfVm.cs",
               "RelativeDocumentMoniker": "Library\\ViewModel\\ShelfVm.cs",
@@ -586,7 +605,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "BookVm.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\ViewModel\\BookVm.cs",
               "RelativeDocumentMoniker": "Library\\ViewModel\\BookVm.cs",
@@ -598,7 +617,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "ShelfModel.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Models\\ShelfModel.cs",
               "RelativeDocumentMoniker": "Library\\Models\\ShelfModel.cs",
@@ -610,7 +629,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "SetModel.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Models\\SetModel.cs",
               "RelativeDocumentMoniker": "Library\\Models\\SetModel.cs",
@@ -622,7 +641,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "ISetService.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Service\\ISetService.cs",
               "RelativeDocumentMoniker": "Library\\Service\\ISetService.cs",
@@ -634,7 +653,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "IShelfService.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Service\\IShelfService.cs",
               "RelativeDocumentMoniker": "Library\\Service\\IShelfService.cs",
@@ -643,18 +662,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-01T11:20:23Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "IBookService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Service\\IBookService.cs",
-              "RelativeDocumentMoniker": "Library\\Service\\IBookService.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\Library\\Library\\Service\\IBookService.cs",
-              "RelativeToolTip": "Library\\Service\\IBookService.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T11:19:13.354Z"
             }
           ]
         }

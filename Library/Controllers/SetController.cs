@@ -39,7 +39,8 @@ namespace Library.Controllers
 
         public async Task<IActionResult> DetailsSet(long id)
         {
-            var set = await _setService.GetSetById(id);
+            var set = await _setService
+                .GetSetById(id);
             if (set == null)
             {
                 return NotFound();

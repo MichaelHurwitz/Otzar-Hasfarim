@@ -22,7 +22,8 @@ namespace Library.Controllers
         {
             try
             {
-                var libraries = await _libraryService.GetAllLibraries();
+                var libraries = await _libraryService
+                    .GetAllLibraries();
                 return View(libraries);
             }
             catch (Exception ex)
@@ -51,7 +52,8 @@ namespace Library.Controllers
                 {
                     Genre = model.Genre
                 };
-                await _libraryService.AddLibrary(library);
+                await _libraryService
+                    .AddLibrary(library);
                 return RedirectToAction(nameof(Index));
             }
             catch (Exception ex)
@@ -64,7 +66,8 @@ namespace Library.Controllers
         {
             try
             {
-                var library = await _libraryService.GetLibraryById(id);
+                var library = await _libraryService
+                    .GetLibraryById(id);
                 if (library == null)
                 {
                     return NotFound();
@@ -99,7 +102,8 @@ namespace Library.Controllers
                     Id = model.Id,
                     Genre = model.Genre
                 };
-                await _libraryService.UpdateLibrary(library);
+                await _libraryService
+                    .UpdateLibrary(library);
                 return RedirectToAction(nameof(Index));
             }
             catch (Exception ex)
@@ -132,7 +136,8 @@ namespace Library.Controllers
         {
             try
             {
-                await _libraryService.DeleteLibrary(id);
+                await _libraryService
+                    .DeleteLibrary(id);
                 return RedirectToAction(nameof(Index));
             }
             catch (Exception ex)
